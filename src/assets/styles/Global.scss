@@ -1,0 +1,17 @@
+$white: #fff;
+$lightGray: hsl(212, 45%, 89%);
+$grayishBlue: hsl(220, 15%, 55%);
+$darkBlue: hsl(218, 44%, 22%);
+
+$light-bg: $lightGray;
+
+/* breakpoints */
+$mobile-devices: "(max-width:599px)";
+$tab-portrait-up: "(min-width:600px)";
+$tab-portrait-only: "(min-width:600px) and (max-width:960px)";
+$tab-landscape-up: "(min-width:960px)";
+$tab-landscape-only: "(min-width:960px) and (max-width:1200px)";
+$lap-up: "(min-width:1200px)";
+$lap-only: "(min-width:1200px) and (max-width:1660px)";
+$desktop: "(min-width:1660px)";
+$high-res-devices: "(min-width:2560px)";
